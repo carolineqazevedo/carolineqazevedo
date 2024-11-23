@@ -20,7 +20,7 @@
 
 <div style="inline_block" align="center"><br>
     <img align="center" alt="Py" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    <img align="center" alt="Flask" height="30" width="40" src="https://cdn.discordapp.com/attachments/1200804217842049034/1310010443687006299/Design_sem_nome_5_1.png?ex=6743a9cc&is=6742584c&hm=232818eaa2eed55c038c8a81c66e4ec474a44b86a0d12d57eca04d6cdf6b4968&" />
+    <img align="center" alt="Flask" height="40" width="40" src="https://cdn.discordapp.com/attachments/1200804217842049034/1310010443687006299/Design_sem_nome_5_1.png?ex=6743a9cc&is=6742584c&hm=232818eaa2eed55c038c8a81c66e4ec474a44b86a0d12d57eca04d6cdf6b4968&" />
     <img align="center" alt="Test" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
     <img align="center" alt="Se" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
     <img align="center" alt="Js" height="30" width="40" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
